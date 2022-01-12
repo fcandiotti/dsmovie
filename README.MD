@@ -7,6 +7,6 @@
 
 ### Lógica:
 - Informar email, id do filme e valor da avaliação (1 a 5).
--Recuperar usuário do banco de dados pelo email. Se o usuário não existir, insira no banco.
--Salvar a avaliação do usuário para o dado filme.
--Recalcular a avaliação média do filme e salvar no banco de dados.
+- Recuperar usuário do banco de dados pelo email. Se o usuário não existir, insira no banco.
+- Salvar a avaliação do usuário para o dado filme.
+- Recalcular a avaliação média do filme e salvar no banco de dados.
